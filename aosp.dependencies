@@ -1,0 +1,12 @@
+[
+   {
+      "repository":"android_device_google_bonito",
+      "target_path":"device/google/bonito"
+   },
+   {
+      "repository":"android_vendor_google_sargo",
+      "target_path":"vendor/google/sargo",
+      "branch":"unity",
+      "remote":"pixelbuilds-blobs-gitlab"
+   }
+]
